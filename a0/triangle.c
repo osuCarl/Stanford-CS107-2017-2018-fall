@@ -30,7 +30,7 @@ void print_triangle(int nlevels)
 
 int main(int argc, char *argv[])
 {
-    int nlevels = 3;
+    int nlevels = 5;
     if (argc > 1)
         nlevels = atoi(argv[1]);
     if (nlevels > 8 || nlevels < 0){

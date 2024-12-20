@@ -1,6 +1,6 @@
 File: readme.txt
 Assignment: assign0
-Author: YOUR NAME HERE
+Author: osuCARL with help of Github Copilot
 ----------------------
 
 ----------------------
@@ -8,7 +8,9 @@ QUESTION: Describe two of the most useful things you've learned
 to do in UNIX. Write one sentence for each. Write as though you're 
 trying to sell a classmate on the utility of learning this particular 
 command/trick/tip.
-ANSWER:
+ANSWER: 
+cd: this is a basic command I will need to explore the file system
+code . opens up vscode and set current directory as the working directory (Since I am using WSL to do this assignment)
 
 
 ----------------------
@@ -17,14 +19,15 @@ to do in your editor of choice (either vim or emacs--you don't need
 to write about both vim and emacs). Write one sentence for each useful
 thing you learned. Write as though you're trying to sell a classmate 
 on the utility of learning this particular command/trick/tip.
-ANSWER:
-
+ANSWER: emacs
+Ctl-x Ctl-s save the current changes to a file. 
+emacs filename to open the GUI of the editor
 
 ----------------------
 QUESTION: What are the dates and times of the CS107 midterm and final exams?
 (Get those locked in on your calendar now!)
 ANSWER: 
-
+Not enrolled, No access
 
 ----------------------
 QUESTION: Type any word into the search box on the Piazza forum.
@@ -32,13 +35,13 @@ At the top of the search results will appear a pop-up menu titled
 "Search Tips". Check out the tips on this menu about forum searches.
 How would you search for posts that contain either bit or byte?
 ANSWER: 
-
+Not enrolled, No access
 
 ----------------------
 QUESTION: Please read the CS107 Honor Code and Collaboration policy 
 and sign your name below to indicate you have done so.
 (The web page is http://cs107.stanford.edu/collaboration.html)
-ANSWER: I have read and understood the policy: [Your Name Here]
+ANSWER: I have read and understood the policy: osuCARL
 
 
 NOW RETURN TO THE ASSIGN0 WRITEUP
@@ -47,7 +50,7 @@ and answer the questions below:
 
 ----------------------
 QUESTION: What is the username of the intruder?
-ANSWER: 
+ANSWER: DARKosuCARL
 
 myth12:~/cs107/assign0/samples/server_image-91107/config> diff -a --suppress-common-lines -y trusted.bak.305 trusted.list
                                                               > mvaska
